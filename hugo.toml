@@ -4,7 +4,7 @@
 baseURL = "https://example.com/"
 title = "Hspikes"
 languageCode = "en"
-hasCJKLanguage = false
+hasCJKLanguage = true
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
@@ -321,7 +321,7 @@ uglyURLs = false
 
     ## Poetry
     # Verse (Markdown supported)
-    homePoetry = []
+    homePoetry = ["Keep questioning, keep thinking."]
     # Padding of links at the bottom
     # Unit: em
     homeLinksPadding = 1
@@ -351,11 +351,11 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "This is Hspikes's personal blog site."
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2005-08-16T16:16:16+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
@@ -617,7 +617,7 @@ uglyURLs = false
     ######################################
     # KaTeX (chemical equation supported)
 
-    enableKaTeX = false
+    enableKaTeX = true 
     # Note: *global settings*
     #       `katex` in post’s Front Matter
     #       has a higher priority than here
@@ -1144,7 +1144,7 @@ uglyURLs = false
     ######################################
     ## Small Caps
 
-    enableSmallCaps = true
+    enableSmallCaps = false
     # Note: apply to headings & post toc
     #       title only
     #       *global settings*
@@ -1170,7 +1170,7 @@ uglyURLs = false
 
     enablePostCopyright = true
 
-    displayPostCopyright = true
+    displayPostCopyright = false
     # Note: *global settings*
     #       `displayCopyright` in post’s Front Matter
     #       has a higher priority than here
@@ -1181,7 +1181,7 @@ uglyURLs = false
 
     enablePostUpdatedBadge = true
 
-    displayUpdatedBadge = true
+    displayUpdatedBadge = false
     # Note: *global settings*
     #       `badge` in post’s Front Matter
     #       has a higher priority than here
@@ -1225,7 +1225,7 @@ uglyURLs = false
 
     enablePostShare = true
 
-    displayPostShare = true
+    displayPostShare = false
     # Note: *global settings*
     #       `share` in post’s Front Matter
     #       has a higher priority than here
@@ -1332,7 +1332,7 @@ uglyURLs = false
 
     # Leave it empty("") if you don’t want
     # the icon
-    iconBetweenYearAndAuthor = "heart"
+    iconBetweenYearAndAuthor = ""
     iconColor = "#f06292"
     # Enable heartbeat animation?
     iconAnimation = true
@@ -1340,12 +1340,12 @@ uglyURLs = false
     displaySiteAuthorName = true
 
     # Display links to Hugo and MemE?
-    displayPoweredBy = true
+    displayPoweredBy = false
 
-    displaySiteCopyright = true
+    displaySiteCopyright = false
 
     # Custom Footer (Markdown supported)
-    customFooter = ""
+    customFooter = "Keeping thinking, keep questioning."
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "Site UV"
@@ -1521,12 +1521,12 @@ uglyURLs = false
         # Name
         name = "Hspikes"
         # Email
-        email = "reuixiy@gmail.com"
+        email = "huangyanshan@stu.xjtu.edu.cn"
         # Motto or introduction
         motto = "Viva La Vida"
         # Avatar
-        avatar = "/icons/apple-touch-icon.png"
+        # avatar = "/icons/apple-touch-icon.png"
         # Personal website, default: baseURL
-        website = "https://io-oi.me/"
+        # website = "https://io-oi.me/"
         # Fediverse
-        fediverse = "@reuixiy@bird.makeup"
+        # fediverse = "@reuixiy@bird.makeup"
