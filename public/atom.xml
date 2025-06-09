@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Hspikes</title>
     <subtitle type="html">This is Hspikes&#39;s personal blog site.</subtitle>
-    <updated>2025-06-09T21:28:33&#43;08:00</updated>
+    <updated>2025-06-09T22:32:28&#43;08:00</updated>
     <id>http://localhost:1313/</id>
     <link rel="alternate" type="text/html" href="http://localhost:1313/" />
     <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
@@ -38,7 +38,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             </summary>
             
                 <content type="html">
-                    &lt;p style=&#34;text-indent:0&#34;&gt;&lt;span class=&#34;drop-cap&#34;&gt;T&lt;/span&gt;hit article is test whether the blog is working properly.&lt;/p&gt;
+                    &lt;p&gt;Thit article is test whether the blog is working properly.&lt;/p&gt;
 &lt;p&gt;世人都晓神仙好，只是功名忘不来！&lt;/p&gt;
 &lt;p&gt;古今将相今何在，荒冢一堆草没了。&lt;/p&gt;
 &lt;p&gt;世人都晓神仙好，只是金钱忘不了！&lt;/p&gt;
