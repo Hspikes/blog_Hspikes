@@ -5,7 +5,7 @@ title = 'Hello World'
 katex = true
 +++
 
-Thit article is test whether the blog is working properly.
+This article is test whether the blog is working properly.
 
 世人都晓神仙好，只是功名忘不来！
 
