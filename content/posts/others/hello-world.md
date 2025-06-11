@@ -5,7 +5,7 @@ title = 'Hello World'
 katex = true
 +++
 
-This article is test whether the blog is working properly.
+This blog is to test whether the blog site is working properly.
 
 世人都晓神仙好，只是功名忘不来！
 
@@ -23,12 +23,14 @@ $$
 B(p,q)=\frac{\Gamma(p+q)}{\Gamma(p)\Gamma(q)}
 $$
 
+数学公式也正常。
+
 ```C
 printf("Hello world!");
 ```
 
-```C++
-cout<<"Hello world!";
-```
+但我更喜欢 ```cout<<"Hello world!";```
+
+代码块也正常。
 
 seem to be all right?
