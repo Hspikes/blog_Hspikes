@@ -52,8 +52,8 @@ uglyURLs = false
 
 # Taxonomies
 [taxonomies]
-    # category = "taxonomies"
-    tag = "tags"
+    # category = "sections"
+    # tag = "tags"
 
 # Modified date
 [frontmatter]
@@ -213,12 +213,6 @@ uglyURLs = false
         weight = 3
         pre = "internal"
         post = "th"
-    [[menu.main]]
-        pageref = "/tags/"
-        name = "Tags"
-        weight = 4
-        pre = "internal"
-        post = "tags"
     [[menu.main]]
         pageref = "/about/"
         name = "About"

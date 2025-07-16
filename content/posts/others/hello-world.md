@@ -17,14 +17,6 @@ This blog is to test whether the blog site is working properly.
 
 中文字体也正常。
 
-When n is a positive interger, $\Gamma(n+1)=n!$, and
-
-$$
-B(p,q)=\frac{\Gamma(p+q)}{\Gamma(p)\Gamma(q)}
-$$
-
-数学公式也正常。
-
 ```C
 printf("Hello world!");
 ```

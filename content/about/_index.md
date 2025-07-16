@@ -4,7 +4,7 @@ draft = false
 title = 'About'
 +++
 
-一个普通的西安交通大学(Xi'an jiaotong university)计算机科学与技术本科在读本科生。
+这里是一个普通的西安交通大学(Xi'an jiaotong university)计算机科学与技术本科在读本科生的个人博客。
 
 喜欢动画、推理小说，可能写写关于这些的观感？
 
