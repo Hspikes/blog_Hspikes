@@ -38,14 +38,8 @@ jobs:
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
-      - name: 安装 Dart Sass（手动）
-        run: |
-          curl -L -o dart-sass.tar.gz https://github.com/sass/dart-sass/releases/latest/download/dart-sass-1.73.0-linux-x64.tar.gz
-          tar -xzf dart-sass.tar.gz
-          sudo mv dart-sass /opt/dart-sass
-          sudo ln -s /opt/dart-sass/dart-sass /usr/local/bin/dart-sass
-          sudo ln -s /opt/dart-sass/sass /usr/local/bin/sass
-
+      - name: 安装Dart Sass
+        run: sudo snap install dart-sass
       - name: 检出
         uses: actions/checkout@v4
         with:
