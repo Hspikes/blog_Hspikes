@@ -23,15 +23,280 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 16 Jul 2025 11:36:06 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 16:12:43 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
         
         
             <item>
+                <title>Markdown语法</title>
+                <link>http://localhost:1313/posts/technology/markdown/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/technology/markdown/</guid>
+                <pubDate>Tue, 22 Jul 2025 21:20:00 &#43;0800</pubDate>
+                
+                    <author>huangyanshan@stu.xjtu.edu.cn (Hspikes)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                
+                <description>
+                        &lt;p&gt;本文的内容主要参考网站 &lt;a href=&#34;https://markdown.com.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown教程&lt;/a&gt;，记下一些自己常用常忘的语法。&lt;/p&gt;
+&lt;h3 id=&#34;空格&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/technology/markdown/#空格&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;空格&lt;/h3&gt;
+&lt;p&gt;文字段落内空格 &lt;code&gt;$~~~$&lt;/code&gt;，这里是 $~~~$ 效果。&lt;/p&gt;
+&lt;h3 id=&#34;制表&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/technology/markdown/#制表&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;制表&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here&amp;#39;s this   |
+| Paragraph   | Text        | And more      |
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Syntax&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Description&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Test Text&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Header&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Title&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;Here&amp;rsquo;s this&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Paragraph&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Text&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;And more&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;一个简易的表格示意，第二行指定了对齐方式。&lt;/p&gt;
+&lt;h3 id=&#34;emoji&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/technology/markdown/#emoji&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;Emoji&lt;/h3&gt;
+&lt;p&gt;直接从 &lt;a href=&#34;https://emojipedia.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emojipedia&lt;/a&gt; 中复制粘贴就好了。下面粘贴一些我用过的表情。&lt;/p&gt;
+&lt;p&gt;⭐🥰&lt;/p&gt;
+
+                        &lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/technology/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/technology/markdown/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+                    </description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="http://localhost:1313/posts/">posts</category>
+                            
+                        
+                    
+                        
+                        
+                        
+                            
+                                <category domain="http://localhost:1313/posts/technology/">Technology</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>2025.7新番杂记</title>
+                <link>http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/</guid>
+                <pubDate>Tue, 22 Jul 2025 21:06:00 &#43;0800</pubDate>
+                
+                    <author>huangyanshan@stu.xjtu.edu.cn (Hspikes)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                
+                <description>
+                        &lt;p&gt;因为从 7 月中才开始写新番杂记，所以这个季度的杂谈不包含前一两话吧。不过话又说回来这个季度看的不太多。&lt;/p&gt;
+&lt;h2 id=&#34;追番进度表&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#追番进度表&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;追番进度表&lt;/h2&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;名称&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;进度&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;当前评价&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;恋人不行&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第五话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 全程笑容没停下来过&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;小城日常&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第四话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐$~~~~$ call back 很有趣&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;这届侦探不太行&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第六话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 全程笑不停，甚至还有 call back，无敌了&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;完结杂谈&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#完结杂谈&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;完结杂谈&lt;/h2&gt;
+&lt;h2 id=&#34;评价留档&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#评价留档&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;评价留档&lt;/h2&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;恋人不行&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第三话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 非常有趣，周指活。但怎么感觉这一话没有之前富呢？穷穷的。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第四话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 屑粉毛也是出手了，太爱紫阳花了&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第五话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 全程笑容没停下来过&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;小城日常&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第二话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐$~~~~$   感觉风评不是很行，但我的观感还是很好的🥰&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第三话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐$~~~~$   开场笑话没有太 get，整体节奏不太抓得住注意力&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第四话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐$~~~~$ call back 很有趣&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;这届侦探不太行&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第五话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 对侦探小说爱好者来说很好笑，很多会心一笑的梗&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第六话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 全程笑不停，甚至还有 call back，无敌了&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+                        &lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+                    </description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="http://localhost:1313/posts/">posts</category>
+                            
+                        
+                    
+                        
+                        
+                        
+                            
+                                <category domain="http://localhost:1313/posts/animation/">Animation</category>
+                            
+                        
+                    
+                        
+                        
+                        
+                            
+                                <category domain="http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/">新番杂记</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>玫瑰的名字</title>
+                <link>http://localhost:1313/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/</guid>
+                <pubDate>Tue, 22 Jul 2025 21:06:00 &#43;0800</pubDate>
+                
+                    <author>huangyanshan@stu.xjtu.edu.cn (Hspikes)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                
+                <description>
+                        
+                        &lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+                    </description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="http://localhost:1313/posts/">posts</category>
+                            
+                        
+                    
+                        
+                        
+                        
+                            
+                                <category domain="http://localhost:1313/posts/whodunit/">Whodunit</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
                 <title>Hello World</title>
-                <link>http://localhost:1313/posts/others/hello-world/</link>
-                <guid isPermaLink="true">http://localhost:1313/posts/others/hello-world/</guid>
+                <link>http://localhost:1313/posts/zothers/hello-world/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/zothers/hello-world/</guid>
                 <pubDate>Sun, 08 Jun 2025 22:53:45 &#43;0800</pubDate>
                 
                     <author>huangyanshan@stu.xjtu.edu.cn (Hspikes)</author>
@@ -59,7 +324,7 @@
 &lt;p&gt;seem to be all right?&lt;/p&gt;
 
                         &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/others/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/others/hello-world/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/zothers/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/zothers/hello-world/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
                     </description>
                 
@@ -80,7 +345,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                         
                         
                             
-                                <category domain="http://localhost:1313/posts/others/">others</category>
+                                <category domain="http://localhost:1313/posts/zothers/">Zothers</category>
                             
                         
                     
@@ -130,7 +395,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                         
                         
                             
-                                <category domain="http://localhost:1313/posts/math/">math</category>
+                                <category domain="http://localhost:1313/posts/math/">Math</category>
                             
                         
                     
