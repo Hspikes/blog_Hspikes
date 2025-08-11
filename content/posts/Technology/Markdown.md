@@ -7,6 +7,7 @@ katex = true
 
 本文的内容主要参考网站 [Markdown教程](https://markdown.com.cn/)，记下一些自己常用常忘的语法。
 
+
 ### 空格
 
 文字段落内空格 ```$~~~$```，这里是 $~~~$ 效果。
@@ -31,4 +32,4 @@ katex = true
 
 直接从 [Emojipedia](https://emojipedia.org/) 中复制粘贴就好了。下面粘贴一些我用过的表情。
 
-⭐🥰
+⭐🥰😅
