@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Hspikes</title>
     <subtitle type="html">This is Hspikes&#39;s personal blog site.</subtitle>
-    <updated>2025-08-10T22:59:58&#43;08:00</updated>
+    <updated>2025-08-18T20:21:12&#43;08:00</updated>
     <id>http://localhost:1313/</id>
     <link rel="alternate" type="text/html" href="http://localhost:1313/" />
     <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
@@ -16,6 +16,60 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.147.8">Hugo</generator>
+        <entry>
+            <title type="text">总之就是各种茶</title>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/" />
+            <id>http://localhost:1313/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/</id>
+            <updated>2025-08-16T12:07:01&#43;08:00</updated>
+            <published>2025-08-16T12:01:00&#43;08:00</published>
+            <author>
+                    <name>Hspikes</name>
+                    <uri>http://localhost:1313/</uri>
+                    <email>huangyanshan@stu.xjtu.edu.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;如题，总之就是各种茶，尝试复制一些奶茶店的味道🙃 &lt;del&gt;(但0.5分糖)&lt;/del&gt;&lt;/p&gt;
+&lt;h2 id=&#34;珍珠奶茶&#34;&gt;珍珠奶茶&lt;/h2&gt;
+                &lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+            </summary>
+            
+                <content type="html">
+                    &lt;p&gt;如题，总之就是各种茶，尝试复制一些奶茶店的味道🙃 &lt;del&gt;(但0.5分糖)&lt;/del&gt;&lt;/p&gt;
+&lt;h2 id=&#34;珍珠奶茶&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/#珍珠奶茶&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;珍珠奶茶&lt;/h2&gt;
+
+                    &lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+                </content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="http://localhost:1313/posts/" term="posts" label="posts" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="http://localhost:1313/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/" term="Spike家今天吃什么" label="Spike家今天吃什么" />
+                        
+                    
+                
+            
+            
+            
+        </entry>
+    
         <entry>
             <title type="text">希腊棺材之谜</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/" />
@@ -126,7 +180,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">Markdown语法</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/posts/technology/markdown/" />
             <id>http://localhost:1313/posts/technology/markdown/</id>
-            <updated>2025-08-08T12:22:50&#43;08:00</updated>
+            <updated>2025-08-16T12:05:56&#43;08:00</updated>
             <published>2025-07-22T21:20:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -202,7 +256,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;p&gt;一个简易的表格示意，第二行指定了对齐方式。&lt;/p&gt;
 &lt;h3 id=&#34;emoji&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/technology/markdown/#emoji&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;Emoji&lt;/h3&gt;
 &lt;p&gt;直接从 &lt;a href=&#34;https://emojipedia.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emojipedia&lt;/a&gt; 中复制粘贴就好了。下面粘贴一些我用过的表情。&lt;/p&gt;
-&lt;p&gt;⭐🥰😅&lt;/p&gt;
+&lt;p&gt;⭐🥰😅🙃&lt;/p&gt;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/technology/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/technology/markdown/&lt;/a&gt;&lt;br&gt;
@@ -239,7 +293,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">2025.7新番杂记</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/" />
             <id>http://localhost:1313/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/</id>
-            <updated>2025-08-08T12:38:24&#43;08:00</updated>
+            <updated>2025-08-18T19:06:22&#43;08:00</updated>
             <published>2025-07-22T21:06:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -267,23 +321,23 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;恋人不行&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;第五话&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 全程笑容没停下来过&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第六话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 纱月也太可爱了吧，王总：我很忠诚，我的妻子也很幸福&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;小城日常&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;第四话&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐$~~~~$ call back 很有趣&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第五话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐$~~~~~~~~~~~~$ 想法挺有意思的，但实在不太好看，ed 风格挺特别的&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;这届侦探不太行&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;第六话&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 全程笑不停，甚至还有 call back，无敌了&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第七话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐$~~~~~~~~$ 比较无趣，几个笑点都很一般，失去了先前推理迷笑点特色&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;琉璃的宝石&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;第五话&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐$~~~~$ 愿意写这种成长型人设的真不多了，我也想要挂我二作的学姐&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第七话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 这话真的无敌，整体节奏非常舒适，看到中间讲薄膜反射时会心一笑，涨知识了。&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
@@ -309,6 +363,10 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
           &lt;td style=&#34;text-align: center&#34;&gt;第五话&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 全程笑容没停下来过&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第六话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 纱月也太可爱了吧，王总：我很忠诚，我的妻子也很幸福&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
 &lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
@@ -331,6 +389,10 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
           &lt;td style=&#34;text-align: center&#34;&gt;第四话&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐$~~~~$ call back 很有趣&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第五话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐$~~~~~~~~~~~~$ 想法挺有意思的，但实在不太好看，ed 风格挺特别的&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
 &lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
@@ -349,6 +411,10 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
           &lt;td style=&#34;text-align: center&#34;&gt;第六话&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 全程笑不停，甚至还有 call back，无敌了&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第七话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐$~~~~~~~~$ 比较无趣，几个笑点都很一般，失去了先前推理迷笑点特色&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
 &lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
@@ -360,12 +426,20 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;第二话&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第四话&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐$~~~~~~~~$ 制作很好，女主有点熊孩子看得我血压高&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;第五话&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐$~~~~$ 愿意写这种成长型人设的真不多了，我也想要挂我二作的学姐&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第六话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 渐入佳境，看到女主调查犯错那一段感觉太恐怖了&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第七话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 这话真的无敌，整体节奏非常舒适，看到中间讲薄膜反射时会心一笑，涨知识了。&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
@@ -464,7 +538,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/posts/zothers/hello-world/" />
             <id>http://localhost:1313/posts/zothers/hello-world/</id>
-            <updated>2025-08-06T16:25:45&#43;08:00</updated>
+            <updated>2025-08-18T20:21:11&#43;08:00</updated>
             <published>2025-06-08T22:53:45&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -497,6 +571,11 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;但我更喜欢 &lt;code&gt;cout&amp;lt;&amp;lt;&amp;quot;Hello world!&amp;quot;;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;代码块也正常。&lt;/p&gt;
+&lt;p&gt;插入图测试：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Zothers/hello-world/Test.png&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/Zothers/hello-world/Test.png&#34; alt=&#34;Test&#34; width=&#34;80%&#34;&gt;
+&lt;/p&gt;
 &lt;p&gt;seem to be all right?&lt;/p&gt;
 
                     &lt;blockquote&gt;

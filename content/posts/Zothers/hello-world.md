@@ -25,4 +25,13 @@ printf("Hello world!");
 
 代码块也正常。
 
+插入图测试：
+
+![Test](/Zothers/hello-world/Test.png)
+
+<p align="center">
+  <img src="/Zothers/hello-world/Test.png" alt="Test" width="80%">
+</p>
+
+
 seem to be all right?
