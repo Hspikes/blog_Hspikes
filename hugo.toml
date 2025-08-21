@@ -964,7 +964,7 @@ uglyURLs = false
     #       /images/meme.jpg
     #       (~/blog/static/images/meme.jpg)
 
-    enableImageHost = false
+    enableImageHost = true
 
     imageHostURL = "https://hspikes.github.io/blog_Hspikes/"
 
