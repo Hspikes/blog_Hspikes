@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://hspikes.github.io/blog_Hspikes/"
 title = "Hspikes"
 languageCode = "en"
 hasCJKLanguage = true
