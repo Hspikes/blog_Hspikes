@@ -966,7 +966,7 @@ uglyURLs = false
 
     enableImageHost = false
 
-    imageHostURL = "https://example.com/"
+    imageHostURL = "https://hspikes.github.io/blog_Hspikes/"
 
     # Replace the image link in the HTML
     # head meta also?
