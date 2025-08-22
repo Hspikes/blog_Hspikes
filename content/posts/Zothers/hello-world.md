@@ -1,7 +1,7 @@
 +++
 date = '2025-06-08T22:53:45+08:00'
 draft = false
-title = 'Hello World'
+title = 'Hello World: 一些基本功能测试'
 katex = true
 +++
 

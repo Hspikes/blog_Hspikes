@@ -1,7 +1,7 @@
 +++
 date = '2025-06-08T22:53:45+08:00'
 draft = false
-title = 'Math Test'
+title = 'Math Test: 数学公式书写测试'
 katex = true
 +++
 

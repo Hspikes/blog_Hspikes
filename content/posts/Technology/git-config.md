@@ -1,7 +1,7 @@
 +++
-date = '2025-07-22T21:20:00+08:00'
+date = '2025-08-22T10:33:00+08:00'
 draft = false
-title = 'git-config 关于 git config 的一些知识'
+title = 'git-config: 关于 git 设置的一些问题'
 katex = true
 +++
 
@@ -42,7 +42,7 @@ Git 的配置有层级之分，共有三层，类似局部变量与全局变量�
 	logallrefupdates = true       // git 会为所有引用保留日志，在 .git/logs/ 中
 [remote "origin"]
 	url = git@github.com:Hspikes/blog_Hspikes.git
-	fetch = +refs/heads/\*:refs/remotes/origin/\*  // 在 fetch 时将远程仓库所有分支都同步到本地
+	fetch = +refs/heads/*:refs/remotes/origin/*  // 在 fetch 时将远程仓库所有分支都同步到本地
 [branch "main"]
 	remote = origin
 	merge = refs/heads/main
