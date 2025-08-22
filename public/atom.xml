@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Hspikes</title>
     <subtitle type="html">This is Hspikes&#39;s personal blog site.</subtitle>
-    <updated>2025-08-21T20:54:44&#43;08:00</updated>
-    <id>https://hspikes.github.io/blog_Hspikes/</id>
-    <link rel="alternate" type="text/html" href="https://hspikes.github.io/blog_Hspikes/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://hspikes.github.io/blog_Hspikes/atom.xml" />
+    <updated>2025-08-21T21:34:08&#43;08:00</updated>
+    <id>http://localhost:1313/blog_Hspikes/</id>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/" />
+    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/blog_Hspikes/atom.xml" />
     <author>
             <name>Hspikes</name>
-            <uri>https://hspikes.github.io/blog_Hspikes/</uri>
+            <uri>http://localhost:1313/blog_Hspikes/</uri>
             
                 <email>huangyanshan@stu.xjtu.edu.cn</email>
             </author>
@@ -18,29 +18,29 @@
     <generator uri="https://gohugo.io/" version="0.147.8">Hugo</generator>
         <entry>
             <title type="text">总之就是各种茶</title>
-            <link rel="alternate" type="text/html" href="https://hspikes.github.io/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/" />
-            <id>https://hspikes.github.io/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/" />
+            <id>http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/</id>
             <updated>2025-08-18T20:22:14&#43;08:00</updated>
             <published>2025-08-16T12:01:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
-                    <uri>https://hspikes.github.io/blog_Hspikes/</uri>
+                    <uri>http://localhost:1313/blog_Hspikes/</uri>
                     <email>huangyanshan@stu.xjtu.edu.cn</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
                 &lt;p&gt;如题，总之就是各种茶，尝试复制一些奶茶店的味道🙃 &lt;del&gt;(但0.5分糖)&lt;/del&gt;&lt;/p&gt;
 &lt;h2 id=&#34;珍珠奶茶&#34;&gt;珍珠奶茶&lt;/h2&gt;
                 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
                     &lt;p&gt;如题，总之就是各种茶，尝试复制一些奶茶店的味道🙃 &lt;del&gt;(但0.5分糖)&lt;/del&gt;&lt;/p&gt;
-&lt;h2 id=&#34;珍珠奶茶&#34;&gt;&lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/#珍珠奶茶&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;珍珠奶茶&lt;/h2&gt;
+&lt;h2 id=&#34;珍珠奶茶&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/#珍珠奶茶&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;珍珠奶茶&lt;/h2&gt;
 
                     &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
                 </content>
             
@@ -53,7 +53,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/" term="posts" label="posts" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -61,7 +61,58 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/" term="Spike家今天吃什么" label="Spike家今天吃什么" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/" term="Spike家今天吃什么" label="Spike家今天吃什么" />
+                        
+                    
+                
+            
+            
+            
+        </entry>
+    
+        <entry>
+            <title type="text">希腊棺材之谜</title>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/" />
+            <id>http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/</id>
+            <updated>2025-08-10T22:58:51&#43;08:00</updated>
+            <published>2025-08-10T22:13:00&#43;08:00</published>
+            <author>
+                    <name>Hspikes</name>
+                    <uri>http://localhost:1313/blog_Hspikes/</uri>
+                    <email>huangyanshan@stu.xjtu.edu.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                
+                &lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+            </summary>
+            
+                <content type="html">
+                    
+                    &lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+                </content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/" term="posts" label="posts" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/whodunit/" term="Whodunit" label="Whodunit" />
                         
                     
                 
@@ -72,19 +123,19 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
     
         <entry>
             <title type="text">谁杀了她</title>
-            <link rel="alternate" type="text/html" href="https://hspikes.github.io/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/" />
-            <id>https://hspikes.github.io/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/" />
+            <id>http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/</id>
             <updated>2025-08-08T12:37:42&#43;08:00</updated>
             <published>2025-08-08T11:03:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
-                    <uri>https://hspikes.github.io/blog_Hspikes/</uri>
+                    <uri>http://localhost:1313/blog_Hspikes/</uri>
                     <email>huangyanshan@stu.xjtu.edu.cn</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
                 &lt;p&gt;以前老师告诉过我科研难点不仅仅在于解决问题，更在于找到问题。这对推理小说也是同理，只要找到了惯用手的角度切入思考，配合两个追查者状态的变化答案就很显然，但难点在于找到这个角度。&lt;/p&gt;
                 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
             </summary>
             
@@ -95,7 +146,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;p&gt;佳世子试图作为模仿犯连现场有泥土都知道，这设定太不合理，这种连环杀人细节都不应当纰漏就是为了防止模仿犯，警方失职太严重了😅&lt;/p&gt;
 
                     &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
                 </content>
             
@@ -108,7 +159,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/" term="posts" label="posts" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -116,7 +167,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/whodunit/" term="Whodunit" label="Whodunit" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/whodunit/" term="Whodunit" label="Whodunit" />
                         
                     
                 
@@ -127,13 +178,13 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
     
         <entry>
             <title type="text">Markdown语法</title>
-            <link rel="alternate" type="text/html" href="https://hspikes.github.io/blog_Hspikes/posts/technology/markdown/" />
-            <id>https://hspikes.github.io/blog_Hspikes/posts/technology/markdown/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/markdown/" />
+            <id>http://localhost:1313/blog_Hspikes/posts/technology/markdown/</id>
             <updated>2025-08-16T12:05:56&#43;08:00</updated>
             <published>2025-07-22T21:20:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
-                    <uri>https://hspikes.github.io/blog_Hspikes/</uri>
+                    <uri>http://localhost:1313/blog_Hspikes/</uri>
                     <email>huangyanshan@stu.xjtu.edu.cn</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
@@ -168,15 +219,15 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;/table&gt;
 &lt;p&gt;一个简易的表格示意，第二行指定了对齐方式。&lt;/p&gt;
                 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/technology/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/technology/markdown/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/markdown/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
                     &lt;p&gt;本文的内容主要参考网站 &lt;a href=&#34;https://markdown.com.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown教程&lt;/a&gt;，记下一些自己常用常忘的语法。&lt;/p&gt;
-&lt;h3 id=&#34;空格&#34;&gt;&lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/technology/markdown/#空格&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;空格&lt;/h3&gt;
+&lt;h3 id=&#34;空格&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#空格&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;空格&lt;/h3&gt;
 &lt;p&gt;文字段落内空格 &lt;code&gt;$~~~$&lt;/code&gt;，这里是 $~~~$ 效果。&lt;/p&gt;
-&lt;h3 id=&#34;制表&#34;&gt;&lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/technology/markdown/#制表&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;制表&lt;/h3&gt;
+&lt;h3 id=&#34;制表&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#制表&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;制表&lt;/h3&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here&amp;#39;s this   |
@@ -203,12 +254,12 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
 &lt;p&gt;一个简易的表格示意，第二行指定了对齐方式。&lt;/p&gt;
-&lt;h3 id=&#34;emoji&#34;&gt;&lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/technology/markdown/#emoji&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;Emoji&lt;/h3&gt;
+&lt;h3 id=&#34;emoji&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#emoji&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;Emoji&lt;/h3&gt;
 &lt;p&gt;直接从 &lt;a href=&#34;https://emojipedia.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emojipedia&lt;/a&gt; 中复制粘贴就好了。下面粘贴一些我用过的表情。&lt;/p&gt;
 &lt;p&gt;⭐🥰😅🙃&lt;/p&gt;
 
                     &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/technology/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/technology/markdown/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/markdown/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
                 </content>
             
@@ -221,7 +272,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/" term="posts" label="posts" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -229,7 +280,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/technology/" term="Technology" label="Technology" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/technology/" term="Technology" label="Technology" />
                         
                     
                 
@@ -240,25 +291,25 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
     
         <entry>
             <title type="text">2025.7新番杂记</title>
-            <link rel="alternate" type="text/html" href="https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/" />
-            <id>https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/" />
+            <id>http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/</id>
             <updated>2025-08-21T20:23:04&#43;08:00</updated>
             <published>2025-07-22T21:06:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
-                    <uri>https://hspikes.github.io/blog_Hspikes/</uri>
+                    <uri>http://localhost:1313/blog_Hspikes/</uri>
                     <email>huangyanshan@stu.xjtu.edu.cn</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
                 &lt;p&gt;因为从 7 月中才开始写新番杂记，所以这个季度的杂谈不包含前一两话吧。不过话又说回来这个季度看的不太多。&lt;/p&gt;
                 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
                     &lt;p&gt;因为从 7 月中才开始写新番杂记，所以这个季度的杂谈不包含前一两话吧。不过话又说回来这个季度看的不太多。&lt;/p&gt;
-&lt;h2 id=&#34;追番进度表&#34;&gt;&lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#追番进度表&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;追番进度表&lt;/h2&gt;
+&lt;h2 id=&#34;追番进度表&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#追番进度表&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;追番进度表&lt;/h2&gt;
 &lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -290,8 +341,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
-&lt;h2 id=&#34;完结杂谈&#34;&gt;&lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#完结杂谈&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;完结杂谈&lt;/h2&gt;
-&lt;h2 id=&#34;评价留档&#34;&gt;&lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#评价留档&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;评价留档&lt;/h2&gt;
+&lt;h2 id=&#34;完结杂谈&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#完结杂谈&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;完结杂谈&lt;/h2&gt;
+&lt;h2 id=&#34;评价留档&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#评价留档&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;评价留档&lt;/h2&gt;
 &lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -406,7 +457,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;/table&gt;&lt;/div&gt;
 
                     &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
                 </content>
             
@@ -419,7 +470,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/" term="posts" label="posts" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -427,7 +478,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/animation/" term="Animation" label="Animation" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/animation/" term="Animation" label="Animation" />
                         
                     
                 
@@ -435,7 +486,58 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/" term="新番杂记" label="新番杂记" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/" term="新番杂记" label="新番杂记" />
+                        
+                    
+                
+            
+            
+            
+        </entry>
+    
+        <entry>
+            <title type="text">玫瑰的名字</title>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/" />
+            <id>http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/</id>
+            <updated>2025-08-10T22:58:45&#43;08:00</updated>
+            <published>2025-07-22T21:06:00&#43;08:00</published>
+            <author>
+                    <name>Hspikes</name>
+                    <uri>http://localhost:1313/blog_Hspikes/</uri>
+                    <email>huangyanshan@stu.xjtu.edu.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                
+                &lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+            </summary>
+            
+                <content type="html">
+                    
+                    &lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+                </content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/" term="posts" label="posts" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/whodunit/" term="Whodunit" label="Whodunit" />
                         
                     
                 
@@ -446,13 +548,13 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
     
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://hspikes.github.io/blog_Hspikes/posts/zothers/hello-world/" />
-            <id>https://hspikes.github.io/blog_Hspikes/posts/zothers/hello-world/</id>
-            <updated>2025-08-18T20:21:11&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/" />
+            <id>http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/</id>
+            <updated>2025-08-21T21:29:31&#43;08:00</updated>
             <published>2025-06-08T22:53:45&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
-                    <uri>https://hspikes.github.io/blog_Hspikes/</uri>
+                    <uri>http://localhost:1313/blog_Hspikes/</uri>
                     <email>huangyanshan@stu.xjtu.edu.cn</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
@@ -460,7 +562,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;p&gt;世人都晓神仙好，只是功名忘不来！&lt;/p&gt;
 &lt;p&gt;古今将相今何在，荒冢一堆草没了。&lt;/p&gt;
                 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/zothers/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/zothers/hello-world/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
             </summary>
             
@@ -482,14 +584,14 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;/div&gt;&lt;p&gt;但我更喜欢 &lt;code&gt;cout&amp;lt;&amp;lt;&amp;quot;Hello world!&amp;quot;;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;代码块也正常。&lt;/p&gt;
 &lt;p&gt;插入图测试：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://hspikes.github.io/blog_Hspikes/Zothers/hello-world/Test.png&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog_Hspikes/Zothers/hello-world/Test.png&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://hspikes.github.io/blog_Hspikes/Zothers/hello-world/Test.png&#34; alt=&#34;Test&#34; width=&#34;80%&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/blog_Hspikes/Zothers/hello-world/Test.png&#34; alt=&#34;Test&#34; width=&#34;80%&#34;&gt;
 &lt;/p&gt;
 &lt;p&gt;seem to be all right?&lt;/p&gt;
 
                     &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/zothers/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/zothers/hello-world/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
                 </content>
             
@@ -502,7 +604,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/" term="posts" label="posts" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -510,7 +612,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/zothers/" term="Zothers" label="Zothers" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/zothers/" term="Zothers" label="Zothers" />
                         
                     
                 
@@ -521,13 +623,13 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
     
         <entry>
             <title type="text">Math Test</title>
-            <link rel="alternate" type="text/html" href="https://hspikes.github.io/blog_Hspikes/posts/math/hello-world/" />
-            <id>https://hspikes.github.io/blog_Hspikes/posts/math/hello-world/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/math/hello-world/" />
+            <id>http://localhost:1313/blog_Hspikes/posts/math/hello-world/</id>
             <updated>2025-08-06T16:25:45&#43;08:00</updated>
             <published>2025-06-08T22:53:45&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
-                    <uri>https://hspikes.github.io/blog_Hspikes/</uri>
+                    <uri>http://localhost:1313/blog_Hspikes/</uri>
                     <email>huangyanshan@stu.xjtu.edu.cn</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
@@ -538,7 +640,7 @@ B(p,q)=\frac{\Gamma(p+q)}{\Gamma(p)\Gamma(q)}
 $$&lt;/p&gt;
 &lt;p&gt;seem to be all right?&lt;/p&gt;
                 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/math/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/math/hello-world/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/math/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/math/hello-world/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
             </summary>
             
@@ -551,7 +653,7 @@ $$&lt;/p&gt;
 &lt;p&gt;seem to be all right?&lt;/p&gt;
 
                     &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://hspikes.github.io/blog_Hspikes/posts/math/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hspikes.github.io/blog_Hspikes/posts/math/hello-world/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/math/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/math/hello-world/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
                 </content>
             
@@ -564,7 +666,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/" term="posts" label="posts" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -572,7 +674,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                     
                     
                         
-                            <category scheme="https://hspikes.github.io/blog_Hspikes/posts/math/" term="Math" label="Math" />
+                            <category scheme="http://localhost:1313/blog_Hspikes/posts/math/" term="Math" label="Math" />
                         
                     
                 

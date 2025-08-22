@@ -30,6 +30,6 @@ katex = true
 
 ### Emoji
 
-直接从 [Emojipedia](https://emojipedia.org/) 中复制粘贴就好了。下面粘贴一些我用过的表情。
+直接从 [Emojipedia](https://emojipedia.org/) 中复制粘贴就好了。下面粘贴一些我用过的表情。类我就不分了，应该用不了几种。
 
-⭐🥰😅🙃
+⭐🥰😅🙃😋
