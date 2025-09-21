@@ -81,7 +81,7 @@ ubuntu.sources 文件中列出的 ```Suites``` 为 ```oracular``` 等，表示�
 
 到这里我就非常无语了，那还能怎么办，折腾呗，了解了一下如果使用第二种方案的话软件源可能也比较过时，那还是升级我的系统吧，什么，你说重装一个 archlinux？那还是算了吧，最近实在忙，下一个电脑吧。
 
-### 备份
+#### 备份
 
 要更新/重装系统，备份是少不了的，这里给出一个备份的脚本命令，只用改一改你的外部存储设备就能直接用。要找外部设备的路径用 ```lsblk and df -h```就可以了。
 
@@ -139,7 +139,7 @@ echo "请在卸载 U盘前确认文件无误（例如：ls -lh $BACKUPDIR ； sh
 
 当然这是 AI 生成的。注意脚本不要用 ```sudo``` 运行，这样会更改你的路径，正常的 ```bash bashup.bash``` 或者 ```chmod +x bashup.bash ./bashup.bash```就可以了。
 
-### 临时更改 APT 源
+#### 临时更改 APT 源
 
 在完成备份以后，需要把 把 APT 源临时指向 ```old-releases.ubuntu.com```,为什么需要把源临时更改呢？
 
@@ -165,7 +165,7 @@ sudo apt full-upgrade -y   # 或 sudo apt dist-upgrade
 sudo apt autoremove -y
 ```
 
-### 升级系统
+#### 升级系统
 
 安装并确认升级工具存在 ```sudo apt install update-manager-core ubuntu-release-upgrader-core -y```
 
