@@ -1,0 +1,47 @@
+/* assets/scss/custom/_custom.scss
+   强烈建议只改样式，不改标题层级（保持语义） */
+
+/* 针对文章正文的标题更改 —— 根据你的页面类名可扩展选择器 */
+article h2,
+.post h2,
+.entry-content h2 {
+  font-size: 1.6rem;      /* 二级标题显著大一些 */
+  line-height: 1.25;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+  font-weight: 600;
+}
+
+article h3,
+.post h3,
+.entry-content h3 {
+  font-size: 1.2rem;      /* 三级标题比二级小，差距更明显 */
+  line-height: 1.3;
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+article h4,
+.post h4,
+.entry-content h4 {
+  font-size: 1.0rem;      /* 三级标题比二级小，差距更明显 */
+  line-height: 1.3;
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+/* 可选：在小屏幕缩小标题 */
+@media (max-width: 768px) {
+  article h2, .post h2, .entry-content h2 { font-size: 1.35rem; }
+  article h3, .post h3, .entry-content h3 { font-size: 1.05rem; }
+  article h4, .post h4, .entry-content h4 { font-size: 0.85rem; }
+}
+
+/* 如果你发现主题使用 CSS 变量来控制字号，也可以直接覆盖变量： */
+:root {
+  /* 这些变量名只是示例，视主题实际变量而定；若主题有 --heading-size-... 之类，覆盖即可 */
+  --site-h2-size: 1.6rem;
+  --site-h3-size: 1.2rem;
+  --site-h4-size: 1.0rem;
+}
