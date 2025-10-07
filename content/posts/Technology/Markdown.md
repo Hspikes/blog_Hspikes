@@ -20,7 +20,6 @@ katex = true
 | ```\|·\|``` | $ \|·\| $ | 范数，这里渲染不太对，请直接看源码 |
 | ```\nabla``` | $ \nabla $ | \ |
 | ```\partial``` | $ \partial $ | \ |
-| ```\mathbb{R}``` | $ \mathbb{R} $ | 渲染不够华丽啊，而且很慢 |
 | ```\to``` | $ \to $ | \ |
 | ```\mapsto``` | $ \mapsto $ | \ |
 
@@ -50,6 +49,22 @@ katex = true
 | 代码 | 效果 | 描述 |
 | :---: | :---: | :---: |
 | ```\lambda``` | $ \lambda $ | \ |
+| ```\Lambda``` | $ \Lambda $ | \ |
+| ```\alpha``` | $ \alpha $ | \ |
+| ```\beta``` | $ \beta $ | \ |
+| ```\gamma``` | $ \gamma $ | \ |
+| ```\Gamma``` | $ \Gamma $ | \ |
+| ```\delta``` | $ \delta $ | \ |
+| ```\Delta``` | $ \Delta $ | \ |
+| ```\epsilon``` | $ \epsilon $ | \ |
+| ```\omega``` | $ \omega $ | \ |
+| ```\phi``` | $ \phi $ | \ |
+| ```\Phi``` | $ \Phi $ | \ |
+| ```\mu``` | $ \mu $ | \ |
+| ```\eta``` | $ \eta $ | \ |
+| ```\theta``` | $ \theta $ | \ |
+| ```\xi``` | $ \xi $ | \ |
+| ```\Xi``` | $ \Xi $ | \ |
 
 ### 文本效果
 
@@ -61,6 +76,8 @@ katex = true
 | :---: | :---: |
 | ```\textbf{}``` | 加粗 |
 | ```\texttt{}``` | 等宽字体，虽然说是用在插入代码的，但实际效果不太理想，插入代码远不如 md 方便 |
+| ```\mathbb{R}``` | $ \mathbb{R} $ | 渲染不够华丽啊，而且很慢 |
+| ```\mathcal{L}``` | $ \mathcal{L} $ | 渲染不够华丽啊，而且很慢 |
 
 ### 枚举
 

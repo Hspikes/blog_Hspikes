@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Hspikes</title>
     <subtitle type="html">This is Hspikes&#39;s personal blog site.</subtitle>
-    <updated>2025-09-28T11:34:17&#43;08:00</updated>
+    <updated>2025-10-07T21:37:38&#43;08:00</updated>
     <id>http://localhost:1313/blog_Hspikes/</id>
     <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/" />
     <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/blog_Hspikes/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">一些可能不太常用的命令</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/" />
             <id>http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/</id>
-            <updated>2025-09-28T11:34:17&#43;08:00</updated>
+            <updated>2025-09-28T15:43:26&#43;08:00</updated>
             <published>2025-09-23T12:14:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -182,13 +182,47 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-mtime&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;修改内容时间，以天为单位&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;修改内容时间，以天为单位, -7, +10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-user&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;按用户查找&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;常用处理动作：&lt;/p&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;选项&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;含义&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-print&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;stdout, 默认动作&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-delete&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;删除文件&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-exec&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;传入参数&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;举一个传入参数的例子 &lt;code&gt;find . -name *.tex -exec rm {} +&lt;/code&gt;，其中 &lt;code&gt;{}&lt;/code&gt; 表示当前匹配的文件，&lt;code&gt;+&lt;/code&gt; 表示批量传入处理，否则文件多时较为低效。但更为推荐使用接下来介绍的 &lt;code&gt;xargs&lt;/code&gt; 来处理。&lt;/p&gt;
 &lt;h3 id=&#34;xargs&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/#xargs&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/#contents:xargs&#34; class=&#34;headings&#34;&gt;&lt;code&gt;xargs&lt;/code&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;在 &lt;code&gt;zip&lt;/code&gt; 的实例中有通过管道导入参数的功能，但那是 &lt;code&gt;zip&lt;/code&gt; 脚本提供了 &lt;code&gt;-@&lt;/code&gt;的选项。很多命令是不提供这样从标准输入读入参数的选项，所以要借用额外的命令来实现。&lt;/p&gt;
 &lt;p&gt;一个很重要的点是 &lt;code&gt;xargs&lt;/code&gt; 对&lt;strong&gt;文件名含有空格不太安全&lt;/strong&gt;！这一点非常重要，不要用来处理含有空格的文件名，也提醒文件命名规范非常重要。&lt;/p&gt;
+&lt;p&gt;基本语法 &lt;code&gt;command1 | xargs [options] command2&lt;/code&gt;，选项基本不太常用，举几个例子。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;echo &amp;quot;file1 file2 file3&amp;quot; | xargs rm&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;find . -name &amp;quot;*.txt&amp;quot; | xargs rm&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;核心就是将标准输入转换为命令参数。&lt;/p&gt;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/&lt;/a&gt;&lt;br&gt;
@@ -1946,7 +1980,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">Markdown and latex</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/markdown/" />
             <id>http://localhost:1313/blog_Hspikes/posts/technology/markdown/</id>
-            <updated>2025-09-28T11:21:56&#43;08:00</updated>
+            <updated>2025-10-07T20:48:45&#43;08:00</updated>
             <published>2025-07-22T21:20:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -1989,11 +2023,6 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\partial&lt;/code&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;$ \partial $&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\mathbb{R}&lt;/code&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;$ \mathbb{R} $&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;渲染不够华丽啊，而且很慢&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\to&lt;/code&gt;&lt;/td&gt;
@@ -2101,6 +2130,86 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
           &lt;td style=&#34;text-align: center&#34;&gt;$ \lambda $&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\Lambda&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \Lambda $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\alpha&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \alpha $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\beta&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \beta $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\gamma&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \gamma $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\Gamma&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \Gamma $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\delta&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \delta $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\Delta&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \Delta $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\epsilon&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \epsilon $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\omega&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \omega $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\phi&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \phi $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\Phi&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \Phi $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\mu&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \mu $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\eta&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \eta $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\theta&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \theta $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\xi&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \xi $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\Xi&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \Xi $&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;\&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
 &lt;h3 id=&#34;文本效果&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#文本效果&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#contents:文本效果&#34; class=&#34;headings&#34;&gt;文本效果&lt;/a&gt;&lt;/h3&gt;
@@ -2121,6 +2230,63 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\texttt{}&lt;/code&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;等宽字体，虽然说是用在插入代码的，但实际效果不太理想，插入代码远不如 md 方便&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\mathbb{R}&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \mathbb{R} $&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\mathcal{L}&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;$ \mathcal{L} $&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;枚举&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#枚举&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#contents:枚举&#34; class=&#34;headings&#34;&gt;枚举&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;最推荐使用 &lt;code&gt;usepackage{enumitem}&lt;/code&gt; 宏包，自定义方式多样化。&lt;/p&gt;
+&lt;p&gt;基本格式为 &lt;code&gt;\begin{enumerate}[label=...] \item... \end{enumerate}&lt;/code&gt;，标签的书写就在&lt;code&gt;label&lt;/code&gt;中完成。下面举一些常用标签的例子：&lt;/p&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;代码&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;效果&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\arabic*&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1, 2, 3&amp;hellip;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\alph*&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;a, b, c&amp;hellip;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\Alph*&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;A, B, C&amp;hellip;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\roman*&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;i, ii, iii&amp;hellip;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\Roman*&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;I, II, III&amp;hellip;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;\textbullet&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;·&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;--&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;步骤 \arabic*&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;步骤 1, 步骤 2&amp;hellip;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;(\arabic*)&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;(1), (2), (3)&amp;hellip;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
@@ -2193,7 +2359,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">2025.7新番杂记</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/" />
             <id>http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/</id>
-            <updated>2025-09-25T10:12:22&#43;08:00</updated>
+            <updated>2025-10-07T21:37:31&#43;08:00</updated>
             <published>2025-07-22T21:06:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -2236,20 +2402,26 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;琉璃的宝石&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;第十二话&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 年度神回级别的单级，还帮我复习了模电的知识😊诶，加个放大电路不就搞定了吗&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第十三话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 已完结&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
 &lt;h2 id=&#34;完结杂谈&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#完结杂谈&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#contents:完结杂谈&#34; class=&#34;headings&#34;&gt;完结杂谈&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;这届侦探不太行&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#这届侦探不太行&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#contents:这届侦探不太行&#34; class=&#34;headings&#34;&gt;这届侦探不太行&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;前期最吸引我的是一些对传统侦探推理题材的解构，推理小说忠实爱好者看前面几集的内容真的捧腹大笑。&lt;/p&gt;
-&lt;p&gt;可惜传统推理小说能解构的内容是有限的，到了中期笑点就更多的集中在了人设反差一类上，走传统搞笑番的道路，但作为传统搞笑番仍然是很优秀的。&lt;/p&gt;
-&lt;p&gt;整体无论剧情还是人设（其实主要是小卷）我都很喜欢，可惜动画太穷了，而且看最终话的做法，第二季的希望也比较渺茫了，依依不舍😭&lt;/p&gt;
+&lt;h3 id=&#34;琉璃的宝石&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#琉璃的宝石&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#contents:琉璃的宝石&#34; class=&#34;headings&#34;&gt;琉璃的宝石&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;真正意义上的渐入佳境，年度最佳的有利竞争者，不如说抛开十月就是我心中的年度最佳，再考虑到十月目前的状况，山GN 年度最佳应该是志在必得了。制作作画流畅富裕。人设是女主标准的成长型人设，女主开局熊孩子，一步步的成长，人物弧光清晰而又完美，几个配角也性格鲜明讨喜。剧情无可挑剔，科普详实有趣。年度最佳单级的竞争级层出不穷，红毛入队回、收音机回再到最终回，情感饱满。优点数不胜数，挑几个我最为青睐的讲一讲。&lt;/p&gt;
+&lt;p&gt;人设塑造毫无疑问是我心中最为优秀的一点，好的人设塑造应当是高分动画的入场券。说到现在动画的人设我们常常想到一些美型的、潮流的、甚至标新立异的动画角色，总是停留在一个足够吸引人的标签之上，所谓立体就是足够多的标签，再在剧情中标签对对碰引发冲突，塑造“刻骨铭心”的人设。&lt;/p&gt;
+&lt;p&gt;然而这部动画人物塑造的几个科研工作者没有停留在刻板影响或者标签之上，而是详实的刻画了角色心理活动、一步步的成长，以一种更加慢、更加 old-fashion 的方式去描绘一个完整的人物弧光，在现在的商业化流媒体化的时代，这种方式显得如此古板，如此格格不入，然而又如此的打动人心。不止写出科研工作探索的喜悦，甚至还写出了女主科研方向、人生选择的迷茫再到坚定，还能写出科研心态从浮躁到沉稳，能写出&lt;/p&gt;
+&lt;p&gt;“终有一天手段会成为目的”，当我出发的太久以后，目的已经变成了手段之时，再有文艺作品写出出发目的本身时，总是令我怅然。探索、求知、实践，主角团真正得投入到热爱的事业中，探索万亿年石头的秘密时，我或许也会些许回想起求知与探索本身的喜悦。当知识转化为冰冷的 GPA, paper 又或是一个个 title 时，求知本身的喜悦竟然要在文艺作品中寻找，却道天凉好个秋。&lt;/p&gt;
+&lt;p&gt;最终话有一些关于再见的讨论，最后女主和凤姐坐在草地上，我知道这段旅程结束了，最后一遍看完 ED，女主背着锤子重新站在深山之中，像极了曾经的凤姐，旅途从未结束。&lt;/p&gt;
 &lt;h3 id=&#34;恋人不行&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#恋人不行&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#contents:恋人不行&#34; class=&#34;headings&#34;&gt;恋人不行&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;无暇之作，周指活，真正意义上能给人带来幸福的作品。前面非常搞笑有趣，快速吸引住我的注意力，中后期逐渐的转向通过优秀的人设和细腻的情感吸引观众，并且仍然保持十足有趣的喜剧氛围。&lt;/p&gt;
 &lt;p&gt;在刚开始看的时候，还是受到社区的氛围的影响，总是在关注作画质量之类的，到了后面完全沉浸在故事之中，不再关注这些次要的因素。几乎每看完一集就盼着下一集更新，暑假周一有时候出门凌晨回家，洗完澡看一最新的一集，一扫一天的疲惫。&lt;/p&gt;
 &lt;p&gt;一想到这样的作品已经完结了我就万分不舍，我还是没能像中千与千寻种那样学会告别。不过也多亏了有后续剧场版，也算是些许缓解了我的落寞。&lt;/p&gt;
+&lt;h3 id=&#34;这届侦探不太行&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#这届侦探不太行&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#contents:这届侦探不太行&#34; class=&#34;headings&#34;&gt;这届侦探不太行&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;前期最吸引我的是一些对传统侦探推理题材的解构，推理小说忠实爱好者看前面几集的内容真的捧腹大笑。&lt;/p&gt;
+&lt;p&gt;可惜传统推理小说能解构的内容是有限的，到了中期笑点就更多的集中在了人设反差一类上，走传统搞笑番的道路，但作为传统搞笑番仍然是很优秀的。&lt;/p&gt;
+&lt;p&gt;整体无论剧情还是人设（其实主要是小卷）我都很喜欢，可惜动画太穷了，而且看最终话的做法，第二季的希望也比较渺茫了，依依不舍😭&lt;/p&gt;
 &lt;h2 id=&#34;评价留档&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#评价留档&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/#contents:评价留档&#34; class=&#34;headings&#34;&gt;评价留档&lt;/a&gt;&lt;/h2&gt;
 &lt;div class=&#34;table-container&#34;&gt;&lt;table&gt;
   &lt;thead&gt;
@@ -2416,6 +2588,10 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;第十二话&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 年度神回级别的单级，还帮我复习了模电的知识😊诶，加个放大电路不就搞定了吗&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;第十三话&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;⭐⭐⭐⭐⭐ 已完结&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;
