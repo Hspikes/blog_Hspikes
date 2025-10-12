@@ -15,56 +15,86 @@ katex = true
 
 #### 分析代数
 
-| 代码 | 效果 | 描述 |
-| :---: | :---: | :---: |
-| ```\|·\|``` | $ \|·\| $ | 范数，这里渲染不太对，请直接看源码 |
-| ```\nabla``` | $ \nabla $ | \ |
-| ```\partial``` | $ \partial $ | \ |
-| ```\to``` | $ \to $ | \ |
-| ```\mapsto``` | $ \mapsto $ | \ |
+| 代码 | 效果 |
+| :---: | :---: |
+| ```\|·\|``` | $ \|·\| $ 范数，这里渲染不太对，请直接看源码 |
+| ```\nabla``` | $ \nabla $ |
+| ```\partial``` | $ \partial $ |
+| ```\to``` | $ \to $ |
+| ```\mapsto``` | $ \mapsto $ |
+| ```\int``` | $ \int $ |
+| ```\iint``` | $ \iint $ |
+| ```\oint``` | $ \oint $ |
+| ```\iint\limits_{D}``` | $ \iint\limits_{D} $ 在积分号正下方 |
 
 #### 大小比较
 
-| 代码 | 效果 | 描述 |
-| :---: | :---: | :---: |
-| ```\geq``` | $ \geq $ | \ |
-| ```\leq``` | $ \leq $ | \ |
-| ```\neq``` | $ \neq $ | \ |
+| 代码 | 效果 |
+| :---: | :---: |
+| ```\geq``` | $ \geq $ |
+| ```\leq``` | $ \leq $ |
+| ```\neq``` | $ \neq $ |
 
 #### 因果推理
 
-| 代码 | 效果 | 描述 |
-| :---: | :---: | :---: |
-| ```\forall``` | $ \forall $ | \ |
-| ```\exists``` | $ \exists $ | \ |
-| ```\because``` | $ \because $ | \ |
-| ```\therefore``` | $ \therefore $ | \ |
-| ```\Leftarrow``` | $ \Leftarrow $ | \ |
-| ```\Leftrightarrow``` | $ \Leftrightarrow $ | \ |
-| ```\neg``` | $ \neg $ | \ |
-| ```\in``` | $ \in $ | \ |
+| 代码 | 效果 | 
+| :---: | :---: |
+| ```\forall``` | $ \forall $ |  
+| ```\exists``` | $ \exists $ |  
+| ```\because``` | $ \because $ |  
+| ```\therefore``` | $ \therefore $ |  
+| ```\Leftarrow``` | $ \Leftarrow $ |  
+| ```\Leftrightarrow``` | $ \Leftrightarrow $ |  
+| ```\neg``` | $ \neg $ |  
+| ```\in``` | $ \in $ |  
 
 #### 希腊字符
 
-| 代码 | 效果 | 描述 |
-| :---: | :---: | :---: |
-| ```\lambda``` | $ \lambda $ | \ |
-| ```\Lambda``` | $ \Lambda $ | \ |
-| ```\alpha``` | $ \alpha $ | \ |
-| ```\beta``` | $ \beta $ | \ |
-| ```\gamma``` | $ \gamma $ | \ |
-| ```\Gamma``` | $ \Gamma $ | \ |
-| ```\delta``` | $ \delta $ | \ |
-| ```\Delta``` | $ \Delta $ | \ |
-| ```\epsilon``` | $ \epsilon $ | \ |
-| ```\omega``` | $ \omega $ | \ |
-| ```\phi``` | $ \phi $ | \ |
-| ```\Phi``` | $ \Phi $ | \ |
-| ```\mu``` | $ \mu $ | \ |
-| ```\eta``` | $ \eta $ | \ |
-| ```\theta``` | $ \theta $ | \ |
-| ```\xi``` | $ \xi $ | \ |
-| ```\Xi``` | $ \Xi $ | \ |
+| 代码 | 效果 |
+| :---: | :---: |
+| ```\lambda``` | $ \lambda $ |  
+| ```\Lambda``` | $ \Lambda $ |  
+| ```\alpha``` | $ \alpha $ |  
+| ```\beta``` | $ \beta $ |  
+| ```\gamma``` | $ \gamma $ |  
+| ```\Gamma``` | $ \Gamma $ |  
+| ```\delta``` | $ \delta $ |  
+| ```\Delta``` | $ \Delta $ |  
+| ```\epsilon``` | $ \epsilon $ |  
+| ```\omega``` | $ \omega $ |  
+| ```\phi``` | $ \phi $ |  
+| ```\Phi``` | $ \Phi $ |  
+| ```\mu``` | $ \mu $ |  
+| ```\eta``` | $ \eta $ |  
+| ```\theta``` | $ \theta $ |  
+| ```\xi``` | $ \xi $ |  
+| ```\Xi``` | $ \Xi $ |  
+
+#### 上标修饰符
+
+| 代码 | 效果 |
+| :---: | :---: |
+| ```\tilde(x)``` | $ \tilde{x} $ |
+| ```\bar``` | $ \bar{x} $ |
+| ```\hat``` | $ \hat{x} $ |
+| ```\vec{\alpha}``` | $ \vec{\alpha} $ | 
+| ```\triangleq``` | $ \triangleq $ 定义为 | 
+
+也可以自定义的写法，可以更为灵活的决定符号
+
+```a \stackrel{\triangle}{=} b```
+
+```a \stackrel{def}{=} b```
+
+```a \stackrel{\text{def}}{=} b```
+
+效果如下：
+
+$ a \stackrel{\triangle}{=} b $
+
+$ a \stackrel{def}{=} b $
+
+$ a \stackrel{\text{def}}{=} b $
 
 ### 文本效果
 
@@ -76,8 +106,8 @@ katex = true
 | :---: | :---: |
 | ```\textbf{}``` | 加粗 |
 | ```\texttt{}``` | 等宽字体，虽然说是用在插入代码的，但实际效果不太理想，插入代码远不如 md 方便 |
-| ```\mathbb{R}``` | $ \mathbb{R} $ | 渲染不够华丽啊，而且很慢 |
-| ```\mathcal{L}``` | $ \mathcal{L} $ | 渲染不够华丽啊，而且很慢 |
+| ```\mathbb{R}``` | $ \mathbb{R} $ 渲染不够华丽啊，而且很慢 |
+| ```\mathcal{L}``` | $ \mathcal{L} $ |
 
 ### 枚举
 
