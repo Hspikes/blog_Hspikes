@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Hspikes</title>
     <subtitle type="html">This is Hspikes&#39;s personal blog site.</subtitle>
-    <updated>2025-10-12T22:06:35&#43;08:00</updated>
+    <updated>2025-11-05T22:07:44&#43;08:00</updated>
     <id>http://localhost:1313/blog_Hspikes/</id>
     <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/" />
     <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/blog_Hspikes/atom.xml" />
@@ -15,12 +15,12 @@
                 <email>huangyanshan@stu.xjtu.edu.cn</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.147.8">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.152.2">Hugo</generator>
         <entry>
             <title type="text">一些可能不太常用的命令</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/" />
             <id>http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/</id>
-            <updated>2025-09-28T15:43:26&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-09-23T12:14:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -31,7 +31,8 @@
                 &lt;p&gt;本文记录一些 Linux 下的命令，方便在我忘记的的时候快速的查一查。大部分都是一些有用但又不常用的命令，记性实在不好，每次用都要重新查，这里写一下也能更好的记住。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -226,7 +227,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/linux/%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%AA%E5%B8%B8%E7%94%A8%E7%9A%84%E5%91%BD%E4%BB%A4/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -267,7 +269,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">Ubuntu EOL: 旧版本主义者的灾难</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/linux/ubuntu-eol/" />
             <id>http://localhost:1313/blog_Hspikes/posts/technology/linux/ubuntu-eol/</id>
-            <updated>2025-09-25T10:12:50&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-09-19T15:08:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -279,7 +281,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;p&gt;众所周知，在计算机软件领域，总有人劝你不要更新软件，什么“最新的版本都是做实验，远不如老版本稳定”，“新版本都是加一些无关紧要占内存的东西，浪费硬盘”。曾经我不屑一顾，直到我在把我的游戏本从 Win10 更新到了 Win11 后也加入了旧版本至上教派。嗯，人不如故。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/linux/ubuntu-eol/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/linux/ubuntu-eol/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -587,7 +590,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/linux/ubuntu-eol/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/linux/ubuntu-eol/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -628,7 +632,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">lab3: 邮件客户端</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab3-%E9%82%AE%E4%BB%B6%E5%AE%A2%E6%88%B7%E7%AB%AF/" />
             <id>http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab3-%E9%82%AE%E4%BB%B6%E5%AE%A2%E6%88%B7%E7%AB%AF/</id>
-            <updated>2025-09-12T15:50:41&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-09-12T11:46:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -639,7 +643,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                 &lt;p&gt;这个实验主要是巩固邮件服务器以及客户端原理，并简要的了解 STMP 协议。实验时一定要选对实验用的邮箱服务器，不然可能遇到一些诡异的问题。不推荐校园邮箱、QQ、Google，这些要么会报诡异的错误，要么需要 SSL。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab3-%E9%82%AE%E4%BB%B6%E5%AE%A2%E6%88%B7%E7%AB%AF/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab3-%E9%82%AE%E4%BB%B6%E5%AE%A2%E6%88%B7%E7%AB%AF/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -803,7 +808,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab3-%E9%82%AE%E4%BB%B6%E5%AE%A2%E6%88%B7%E7%AB%AF/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab3-%E9%82%AE%E4%BB%B6%E5%AE%A2%E6%88%B7%E7%AB%AF/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -844,7 +850,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">lab1*: 基础CS文件传输</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/" />
             <id>http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/</id>
-            <updated>2025-09-25T10:12:53&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-09-04T12:28:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -855,7 +861,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                 &lt;p&gt;对实验一的纯粹的实验性质程序加“一点点”小功能，可以更好的把玩一下。包含文件路径处理、多进程处理一系列简单改造。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -1166,7 +1173,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -1207,7 +1215,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">lab1: 基础CS模式入门</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%A8%A1%E5%BC%8F%E5%85%A5%E9%97%A8/" />
             <id>http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%A8%A1%E5%BC%8F%E5%85%A5%E9%97%A8/</id>
-            <updated>2025-09-25T10:12:51&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-09-03T17:33:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -1218,7 +1226,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                 &lt;p&gt;记录我在做《计算机网络：自顶向下方法》实验过程的一些问题以及掌握的知识。同时也包含了 python 语言的一些入门。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%A8%A1%E5%BC%8F%E5%85%A5%E9%97%A8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%A8%A1%E5%BC%8F%E5%85%A5%E9%97%A8/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -1610,7 +1619,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%A8%A1%E5%BC%8F%E5%85%A5%E9%97%A8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B/lab1-%E5%9F%BA%E7%A1%80cs%E6%A8%A1%E5%BC%8F%E5%85%A5%E9%97%A8/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -1651,7 +1661,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">git-config: 关于 git 设置的一些问题</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/git-config/" />
             <id>http://localhost:1313/blog_Hspikes/posts/technology/git-config/</id>
-            <updated>2025-09-25T10:08:19&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-08-22T10:33:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -1662,7 +1672,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                 &lt;p&gt;在编写搭建个人博客网站时曾遇到这样一个问题：将图片文件存储在本地时没有任何问题，可以正常打开，网站也可以正常渲染，然而当通过 git 上传到 github 之后，部署到 github page 后图片却无法正常渲染。经过原因调查发现&lt;strong&gt;在 github 仓库中对应的图片文件无法正常打开，下载后 Linux 环境也无法正常打开&lt;/strong&gt;。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/git-config/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/git-config/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -1763,7 +1774,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/git-config/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/git-config/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -1796,7 +1808,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">总之就是各种茶</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/" />
             <id>http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/</id>
-            <updated>2025-09-25T09:22:45&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-08-16T12:01:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -1809,7 +1821,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;p&gt;最为经典的入门款，在家自己做珍珠实在太麻烦，还要自己揉面，否定！实在想要珍珠调节口感的话可以直接买一些现成的珍珠。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -1829,7 +1842,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/spike%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88/%E6%80%BB%E4%B9%8B%E5%B0%B1%E6%98%AF%E5%90%84%E7%A7%8D%E8%8C%B6/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -1862,7 +1876,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">希腊棺材之谜: 连环诡计典范</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/" />
             <id>http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/</id>
-            <updated>2025-08-24T11:20:37&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-08-10T22:13:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -1874,7 +1888,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;p&gt;根据诺克斯宅邸的状况，能够实现偷诺克斯的画的人只有诺克斯家里面的人，排除掉无名的仆人就只剩下了琼和诺克斯两个人。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -1890,7 +1905,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E5%B8%8C%E8%85%8A%E6%A3%BA%E6%9D%90%E4%B9%8B%E8%B0%9C/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -1923,7 +1939,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">谁杀了她</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/" />
             <id>http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/</id>
-            <updated>2025-09-21T18:10:21&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-08-08T11:03:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -1935,7 +1951,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;p&gt;以前老师告诉过我科研难点不仅仅在于解决问题，更在于找到问题。这对推理小说也是同理，只要找到了惯用手的角度切入思考，配合两个追查者状态的变化答案就很显然，但难点在于找到这个角度。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -1947,7 +1964,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -1980,7 +1998,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">Markdown and latex</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/technology/markdown/" />
             <id>http://localhost:1313/blog_Hspikes/posts/technology/markdown/</id>
-            <updated>2025-10-12T22:06:35&#43;08:00</updated>
+            <updated>2025-11-05T22:07:44&#43;08:00</updated>
             <published>2025-07-22T21:20:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -1991,7 +2009,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                 &lt;p&gt;本文 markdown 相关的内容主要参考网站 &lt;a href=&#34;https://markdown.com.cn/&#34;&gt;Markdown教程&lt;/a&gt;，记下一些自己常用常忘的语法。至于 latex，GPT 是我的唯一指定 latex 导师。这个框架下 markdown 的渲染不等价与所有框架的 markdown 渲染，并且数学公式的渲染也与真实 latex 环境有些差异，但无关紧要。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/markdown/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -2230,6 +2249,97 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;p&gt;$ a \stackrel{\triangle}{=} b $&lt;/p&gt;
 &lt;p&gt;$ a \stackrel{def}{=} b $&lt;/p&gt;
 &lt;p&gt;$ a \stackrel{\text{def}}{=} b $&lt;/p&gt;
+&lt;h4 id=&#34;矩阵&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#矩阵&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#contents:矩阵&#34; class=&#34;headings&#34;&gt;矩阵&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;bmatrix&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;2 f&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt; x&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;2&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;2 f&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt; x &lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt; y&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\\&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;2 f&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt; y &lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt; x&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;2 f&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\partial&lt;/span&gt; y&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;2&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;bmatrix&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;\[
+\begin{bmatrix}
+    \frac{\partial^2f}{\partial x^2} &amp; \frac{\partial^2 f}{\partial x \partial y} \\
+    \frac{\partial^2 f}{\partial y \partial x} &amp; \frac{\partial^2 f}{\partial y^2} 
+\end{bmatrix}
+\]&lt;/div&gt;
+&lt;h4 id=&#34;方程组公式块内换行&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#方程组公式块内换行&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#contents:方程组公式块内换行&#34; class=&#34;headings&#34;&gt;方程组(公式块内换行)&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;latex 本身有非常多神秘的设计，比如你单输入一个 _ 在文本中是无法通过编译的，因为它觉得你输入 _ 是忘记打公式块了。包括 latex 的公式块是不支持块内用 &lt;code&gt;\\&lt;/code&gt; 换行的，非常离谱。&lt;/p&gt;
+&lt;p&gt;要实现公式块内换行，只能用额外的块嵌套。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;\[&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{aligned}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;    &amp;amp;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\min&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_x f_&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sum&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{m} I_&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f_i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;))&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;    &amp;amp; s.t. Ax &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; b
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{aligned}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;\]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;$$
+\begin{aligned}
+    &amp;\min_x f_0(x) + \sum_{i=1}^{m} I_-(f_i(x)) \\
+    &amp; s.t. Ax = b
+\end{aligned}
+$$&lt;/div&gt;
+&lt;p&gt;要实现大括号方程组也必须要依赖与这个方案。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;\[&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left\{&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{aligned}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;    &amp;amp; A&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;x^&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; b &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;    &amp;amp; f_i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;x^&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;))&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &amp;lt; &lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\quad&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\dots&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;,m,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;    &amp;amp; t&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; f_&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;x^&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;))&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sum&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{m}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f_i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;x^&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;))&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; f_i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;x^&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;))&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; A^&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\top&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; v &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{aligned}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;\]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;$$
+\left\{
+\begin{aligned}
+    &amp; A\,x^*(t) + b = 0,\\
+    &amp; f_i(x^*(t)) &lt; 0,\quad i=1,2,\dots,m,\\
+    &amp; t\nabla f_0(x^*(t)) 
+    + \sum_{i=1}^{m}\frac{1}{-f_i(x^*(t))}\nabla f_i(x^*(t)) 
+    + A^\top v = 0.
+\end{aligned}
+\right.
+$$&lt;/div&gt;
+&lt;p&gt;注意代码中的 &lt;code&gt;\right.&lt;/code&gt; 就代表右侧为空字符。&lt;/p&gt;
+&lt;p&gt;其实这个方案也可以用于实现矩阵，但矩阵有更方便的实现，没有必要。在写这个博客的时候我发现我本地的 markdown 也非常神秘，注意 &lt;code&gt;\begin{aligned}... \end{aligned}&lt;/code&gt; 之间我有缩进，没有缩进无法渲染，也可能是我的渲染器的问题吧。&lt;/p&gt;
+&lt;p&gt;还有一个非常神秘的点是我本地渲染器渲染完有用 hugo 本地渲染了一下，发现只要有复杂的格式控制的公式块前必须加入 &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 才能正常渲染，有没有缩进又不重要了，&lt;code&gt;\[\] or $$$$&lt;/code&gt; 也不重要，而且后面加不加 &lt;code&gt;&amp;lt;/div&amp;gt;&lt;/code&gt;也不重要。而且我本地的渲染器无论是 typora 还是 vscode 的插件在加入 &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 后都无法正确渲染了，太神秘了。&lt;/p&gt;
 &lt;h3 id=&#34;文本效果&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#文本效果&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/#contents:文本效果&#34; class=&#34;headings&#34;&gt;文本效果&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;数学符号部分由于 markdown 也是内嵌的 ketex，所以文中数学符号的渲染和 latex 中的渲染大致相同。&lt;/p&gt;
 &lt;p&gt;但是在文本效果部分显然 markdown 不会像 latex 一样渲染 &lt;del&gt;(而且 markdown 方便多了)&lt;/del&gt;，所以渲染效果就只能用语言来描述了。&lt;/p&gt;
@@ -2344,7 +2454,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/technology/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/technology/markdown/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -2377,7 +2488,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">2025.7新番杂记</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/" />
             <id>http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/</id>
-            <updated>2025-10-12T15:34:20&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-07-22T21:06:00&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -2388,7 +2499,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                 &lt;p&gt;因为从 7 月中才开始写新番杂记，所以这个季度的杂谈不包含前一两话吧。不过话又说回来这个季度看的不太多。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -2622,7 +2734,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/animation/%E6%96%B0%E7%95%AA%E6%9D%82%E8%AE%B0/2025.7/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -2660,61 +2773,10 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
         </entry>
     
         <entry>
-            <title type="text">玫瑰的名字</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/" />
-            <id>http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/</id>
-            <updated>2025-08-10T22:58:45&#43;08:00</updated>
-            <published>2025-07-22T21:06:00&#43;08:00</published>
-            <author>
-                    <name>Hspikes</name>
-                    <uri>http://localhost:1313/blog_Hspikes/</uri>
-                    <email>huangyanshan@stu.xjtu.edu.cn</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
-                
-                &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
-            </summary>
-            
-                <content type="html">
-                    
-                    &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/whodunit/%E7%8E%AB%E7%91%B0%E7%9A%84%E5%90%8D%E5%AD%97/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
-                </content>
-            
-            
-            
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="http://localhost:1313/blog_Hspikes/posts/" term="posts" label="posts" />
-                        
-                    
-                
-                    
-                    
-                    
-                        
-                            <category scheme="http://localhost:1313/blog_Hspikes/posts/whodunit/" term="Whodunit" label="Whodunit" />
-                        
-                    
-                
-            
-            
-            
-        </entry>
-    
-        <entry>
             <title type="text">Hello World: 一些基本功能测试</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/" />
             <id>http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/</id>
-            <updated>2025-08-22T11:35:17&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-06-08T22:53:45&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -2727,7 +2789,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 &lt;p&gt;古今将相今何在，荒冢一堆草没了。&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -2756,7 +2819,8 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/zothers/hello-world/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
@@ -2789,7 +2853,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
             <title type="text">Math Test: 数学公式书写测试</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog_Hspikes/posts/math/hello-world/" />
             <id>http://localhost:1313/blog_Hspikes/posts/math/hello-world/</id>
-            <updated>2025-08-22T11:35:40&#43;08:00</updated>
+            <updated>2025-10-16T08:59:01&#43;08:00</updated>
             <published>2025-06-08T22:53:45&#43;08:00</published>
             <author>
                     <name>Hspikes</name>
@@ -2805,7 +2869,8 @@ $$&lt;/p&gt;
 &lt;p&gt;seem to be all right?&lt;/p&gt;
                 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/math/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/math/hello-world/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
             </summary>
             
                 <content type="html">
@@ -2818,7 +2883,8 @@ $$&lt;/p&gt;
 
                     &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/blog_Hspikes/posts/math/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/blog_Hspikes/posts/math/hello-world/&lt;/a&gt;&lt;br&gt;
-Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;&lt;/blockquote&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
                 </content>
             
             
