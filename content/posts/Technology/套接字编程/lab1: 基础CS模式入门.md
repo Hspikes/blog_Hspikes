@@ -1,6 +1,6 @@
 +++
 date = '2025-09-03T17:33:00+08:00'
-draft = false
+draft = true
 title = 'lab1: 基础CS模式入门'
 katex = true
 +++

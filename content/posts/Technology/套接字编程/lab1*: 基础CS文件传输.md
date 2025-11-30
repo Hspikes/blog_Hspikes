@@ -1,6 +1,6 @@
 +++
 date = '2025-09-04T12:28:00+08:00'
-draft = false
+draft = true
 title = 'lab1*: 基础CS文件传输'
 katex = true
 +++
