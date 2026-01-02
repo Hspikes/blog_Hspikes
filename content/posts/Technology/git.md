@@ -111,3 +111,64 @@ pull 的默认方式是 fetch + merge，若 pull.rebase = true，则默认方式
 这种情况比较简单，直接用 .gitignore 就可以了。但一个常见的情况是在建立仓库时并没用想好到底有哪些需要 ignore，添加了一些文件**并且 commit**之后发现有些文件其实不应该提交。
 
 这时可以利用 ```git rm --cache``` 删除响应的模块内容，基本语法和 ```rm``` 是一样的，也就是说要 ```rm``` 文件夹需要加上 ```-r``` 的选项。比如移除对数据的跟踪 ```git rm --cache -r ./data```，配合 .gitignore 就可以完成停止对 /data 的追踪。
+
+### 本地仓库不完全
+
+工作中一个复杂的工程，你可能只希望保留你需要更改的一小部分。分为两种情况：一种是一个已有的远程仓库，你 clone 其中一部分；另一种是你的一个个人仓库，维护的过程中越来越大，你需要去除本地的一部分。
+
+#### 拉取远程仓库
+
+先说 clone 这种情况，git 提供了一个名为**稀疏检出**的工具，其通过一份允许路径列表来筛选检出时的保留路径，其他路径不写或从工作区移除。
+
+要注意：
+
+1. sparse-checkout 不会删除远程仓库内容；
+2. sparse-checkout 不等价于从历史里删掉对象（它主要管工作区）；
+3. 随时可以把某目录加回来，Git 再把它检出到工作区。
+
+稀疏检出有两种模式 cone 模式与非 cone 模式。
+
+非 cone 模式创建一个文件 ```.git/info/sparse-checkout``` 类似 .gitignore，匹配路径、文件，支持通配*，来确认筛选规则。比如：
+
+```text
+/*
+!/src/
+!/docs/
+!/README.md
+```
+
+其中的 ! 是不包含某目录。
+
+core 模式相对简单，只想按目录为单位保留/排除，简单并且性能更为优良。只需要在仓库中执行：
+
+```bash
+git sparse-checkout init --cone
+git sparse-checkout set src docs
+```
+
+便可以让工作区只出现 ```src/, docs/``` 以及必要的父目录结构。当后续希望添加检出内容的时候可以 ```git sparse-checkout add test``` 增加检出内容。
+
+对于 clone 时需要参数 ```--filter=blob:none --no-checkout``` 确保克隆时尽量不下载 blob（文件内容），只先拿 commit/tree 结构；当你真的要检出/查看某个文件时，再按需从远程取该 blob。类似于文件系统的思想，文件实体和索引是相互分离的。
+
+一次标准的拉取流程：
+
+```bash
+git clone --filter=blob:none --no-checkout <url> repo
+cd repo
+git sparse-checkout init --cone
+git sparse-checkout set lab1 docs
+git checkout main
+```
+
+#### 本地仓库减负
+
+这种情况如果想要达到实际意义上删除某些磁盘文件，释放磁盘内存其实基本不可能，因为 git 的提交历史中引用了某些文件，那么 git 为了追踪就会保存相应的文件在 .git/objects 中，想要真正的删除它们只能篡改历史。
+
+如果只是减轻工作区负担，可以单纯的利用稀疏检出：
+
+```bash
+git sparse-checkout init --cone
+git sparse-checkout set lab1 docs   
+```
+
+但不会真正意义上删除文件，想要删除文件最为简单的方法就是重新拉取远程仓库。
