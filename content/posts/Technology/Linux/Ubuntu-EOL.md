@@ -1,7 +1,7 @@
 +++
 date = '2025-09-19T15:08:00+08:00'
 draft = false
-title = 'Ubuntu EOL: 旧版本主义者的灾难'
+title = 'Ubuntu EOL - 旧版本主义者的灾难'
 katex = true
 +++
 
