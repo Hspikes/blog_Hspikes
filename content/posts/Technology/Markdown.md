@@ -226,3 +226,38 @@ $$</div>
 直接从 [Emojipedia](https://emojipedia.org/) 中复制粘贴就好了。下面粘贴一些我用过的表情。类我就不分了，应该用不了几种。
 
 ⭐🥰😅🙃😋😭
+
+### 图片插入
+
+编写旅游博客需要插入图片，经过了漫长的折腾终于折腾出了一个理想的效果，痛定思痛决定定下模版，以后直接采用。
+
+如果图片需要旋转不要在文档中旋转。
+
+```css
+/* 单张图片，横竖不同情况下可以适当调节比例，好看为主 */
+<div align=center>  
+<img src="1.jpg" style="width: 75%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">  
+</div>
+
+/* 两图并排 */
+<div style="display: flex; justify-content: center; gap: 0px 0px; flex-wrap: wrap; line-height: 0;">
+<img src="1.jpg" style="width: 48%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">  
+<img src="1.jpg" style="width: 48%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
+/* 三图，行间距控制*/
+<div style="display: flex; justify-content: center; gap: 0px 0px; flex-wrap: wrap; line-height: 0;">
+<img src="1.jpg" style="width: 48%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">  
+<img src="1.jpg" style="width: 48%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+<img src="1.jpg" style="width: 60%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: -10px;">
+</div>
+
+/* 四图，行间距控制*/
+<div style="display: flex; justify-content: center; gap: 0px 0px; flex-wrap: wrap; line-height: 0;">
+<img src="1.jpg" style="width: 48%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">  
+<img src="1.jpg" style="width: 48%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">  
+<img src="1.jpg" style="width: 48%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: -10px;">  
+<img src="1.jpg" style="width: 48%; border-radius: 8px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: -10px;">  
+</div>
+```

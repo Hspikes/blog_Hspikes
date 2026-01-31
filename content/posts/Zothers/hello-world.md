@@ -33,5 +33,4 @@ printf("Hello world!");
   <img src="/Zothers/hello-world/Test.png" alt="Test" width="80%">
 </p>
 
-
 seem to be all right?
